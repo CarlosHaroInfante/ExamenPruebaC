@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\bin\Debug\net7.0\PruebaExamenC.exe
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\bin\Debug\net7.0\PruebaExamenC.deps.json
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\bin\Debug\net7.0\PruebaExamenC.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\bin\Debug\net7.0\PruebaExamenC.dll
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\bin\Debug\net7.0\PruebaExamenC.pdb
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.dll
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\refint\PruebaExamenC.dll
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.pdb
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\PruebaExamenC.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\PruebaExamenC\obj\Debug\net7.0\ref\PruebaExamenC.dll
